@@ -3,7 +3,10 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Active Directory</b>
+  - Project in progress
+<!--
   - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+-->
 <h2>🧾 Certifications:</h2>
 
 - <b>GIAC</b>
