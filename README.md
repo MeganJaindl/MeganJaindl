@@ -1,4 +1,5 @@
-<h1>Hello, I'm Megan! <br/><a href="https://www.linkedin.com/in/mjaindl/">Cybersecurity Professional</a>, <a href="https://github.com/MeganJaindl">Amateur Programmer</a></h1>
+<h1>Hello, I'm Megan!
+  <br/><a href="https://www.linkedin.com/in/mjaindl/">Cybersecurity Professional</a>, <a href="https://github.com/MeganJaindl">Amateur Programmer</a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
