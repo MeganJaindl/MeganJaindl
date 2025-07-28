@@ -13,7 +13,6 @@
 - <b>GIAC</b>
   - [GFACT](https://www.giac.org/certified-professional/Megan-Jaindl/233623)
   - [GSEC](https://www.giac.org/certified-professional/Megan-Jaindl/233623)
-  - GCIH-in progress
 - <b>CompTIA</b>
   - A+
   - Security+
