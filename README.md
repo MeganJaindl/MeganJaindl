@@ -3,8 +3,8 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Active Directory</b>
-  - Project in progress
+- <b>Home Lab Build</b>
+  - [Build My Own Home Lab Presentation](https://www.canva.com/design/DAGcan66JHk/xM_JkOHStCn7jhkx_6Fztw/view?utm_content=DAGcan66JHk&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=ha75d4535fd)
 <!--
   - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
 -->
@@ -16,7 +16,7 @@
 - <b>CompTIA</b>
   - A+
   - Security+
-  - Network+-in progress
+  - Network+
 <!--
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
